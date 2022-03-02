@@ -1,8 +1,10 @@
 #,Year,Country,City,Date,Countries,All,M,F
 66,2025,Australia,Melbourne,,,,,
+65,2024,Ukraine,Kyiv,,,,,
 64,2023,Japan,Chiba,2.7. - 13.7.,,,,
 63,2022,Norway,Oslo,6.7. - 16.7.,,,,
-61,2020,Russian Federation,St. Petersburg,19.9. - 28.9.,,,,
+62,2021,Russian Federation,St. Petersburg,14.7. - 24.7.,107,619,554,64
+61,2020,Russian Federation,A distributed IMO administered from St Petersburg,19.9. - 28.9.,105,616,560,56
 60,2019,United Kingdom,Bath,11.7. - 22.7.,112,621,556,65
 59,2018,Romania,Cluj-Napoca,3.7. - 14.7.,107,594,535,59
 58,2017,Brazil,Rio de Janeiro,12.7. - 23.7.,111,615,553,62
@@ -42,7 +44,7 @@
 24,1983,France,Paris,1.7. - 12.7.,32,186,178,8
 23,1982,Hungary,Budapest,5.7. - 14.7.,30,119,87,3
 22,1981,United States of America,Washington,8.7. - 20.7.,27,185,155,9
-21,1979,United Kingdom,London,30.6. - 9.7.,23,166,116,1
+21,1979,United Kingdom,London,30.6. - 9.7.,23,166,117,1
 20,1978,Romania,Bucharest,3.7. - 10.7.,17,132,112,3
 19,1977,Yugoslavia,Belgrade,1.7. - 13.7.,21,155,132,2
 18,1976,Austria,Lienz,7.7. - 21.7.,18,139,117,4
